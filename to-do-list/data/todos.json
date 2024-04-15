@@ -2,27 +2,7 @@
   "tasks": [
     {
       "id": "1",
-      "text": "Finish project"
-    },
-    {
-      "id": "2",
-      "text": "Fix the light bulb"
-    },
-    {
-      "id": "3",
-      "text": "Go to the gym"
-    },
-    {
-      "id": 4,
-      "text": "GGGGG"
-    },
-    {
-      "id": 4,
-      "text": "HELLO"
-    },
-    {
-      "id": 4,
-      "text": "adad"
+      "text": "Go to gym\\ now"
     }
   ]
 }
